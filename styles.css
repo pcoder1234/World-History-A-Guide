@@ -5,3 +5,10 @@ body {
 .button {
     shape-rendering: crispEdges;
 }
+
+.h1 {
+    text-align:center;
+}
+.h2 {
+    text-align:center;
+}
